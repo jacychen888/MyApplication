@@ -6,4 +6,6 @@ class Dog extends Animal{
     private eat;
     private wangwang;
 >>>>>>> test
+	some notes
+
 }
